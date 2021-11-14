@@ -1,0 +1,27 @@
+﻿<Application x:Class="WpfApp3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp3"
+             StartupUri="MainWindow.xaml"
+             xmlns:myApp = "clr-namespace:StackOverflow">
+    <Application.Resources>
+        <Style TargetType="{x:Type myApp:HoverButton}" x:Key="customButton">
+            <Setter Property="Background" Value="{Binding RelativeSource={RelativeSource Self}, Path = bgColor}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center"  Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value ="{Binding RelativeSource={RelativeSource Self}, Path = hoverColor}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Application.Resources>
+</Application>
