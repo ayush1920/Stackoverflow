@@ -21,8 +21,8 @@ namespace StackOverflow
 
         public SolidColorBrush hoverColor
         {
-            get { return (SolidColorBrush)GetValue(bgColorProperty); }
-            set { SetValue(bgColorProperty, value); }
+            get { return (SolidColorBrush)GetValue(hoverColorProperty); }
+            set { SetValue(hoverColorProperty, value); }
         }
 
         public static readonly DependencyProperty bgColorProperty = DependencyProperty.Register
@@ -35,8 +35,8 @@ namespace StackOverflow
 
         public SolidColorBrush bgColor
         {
-            get { return (SolidColorBrush)GetValue(hoverColorProperty); }
-            set { SetValue(hoverColorProperty, value); }
+            get { return (SolidColorBrush)GetValue(bgColorProperty); }
+            set { SetValue(bgColorProperty, value); }
         }
     }
 }

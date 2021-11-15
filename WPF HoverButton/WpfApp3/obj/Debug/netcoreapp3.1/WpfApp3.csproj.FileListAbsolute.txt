@@ -19,3 +19,25 @@ C:\Users\Ayush\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.cspr
 C:\Users\Ayush\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.dll
 C:\Users\Ayush\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.pdb
 C:\Users\Ayush\source\repos\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.genruntimeconfig.cache
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.exe
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.deps.json
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.runtimeconfig.json
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.runtimeconfig.dev.json
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.dll
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.pdb
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3_MarkupCompile.cache
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3_MarkupCompile.lref
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.g.resources
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.AssemblyInfoInputs.cache
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.AssemblyInfo.cs
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.dll
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.pdb
+C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.genruntimeconfig.cache
