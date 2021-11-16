@@ -25,7 +25,6 @@ C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.runtimeconfig.dev.json
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.dll
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\bin\Debug\netcoreapp3.1\WpfApp3.pdb
-C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\WpfApp3.csproj.AssemblyReference.cache
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\Ayush\Desktop\New folder (2)\Stackoverflow\WPF HoverButton\WpfApp3\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs

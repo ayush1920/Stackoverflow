@@ -6,9 +6,10 @@
         xmlns:local="clr-namespace:WpfApp3"
         mc:Ignorable="d"
         xmlns:myApp = "clr-namespace:StackOverflow"
-        Title="MainWindow" Height="100" Width="100">
+        Title="MainWindow" Height="200" Width="200">
     <Grid>
-        <myApp:HoverButton Height="20" Width="20" Style="{StaticResource customButton}" bgColor="Orange" hoverColor="Blue">
+        <myApp:HoverButton Height="20" Width="20" Style="{StaticResource customButton}" bgColor="Orange" hoverColor="Blue"
+                           CornerRadius="4" BorderThickness="2" BorderBrush="Red">
         </myApp:HoverButton>
 
     </Grid>

@@ -7,11 +7,15 @@
     <Application.Resources>
         <Style TargetType="{x:Type myApp:HoverButton}" x:Key="customButton">
             <Setter Property="Background" Value="{Binding RelativeSource={RelativeSource Self}, Path = bgColor}"/>
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="Padding" Value="0 " />
             <Setter Property="Template">
                 <Setter.Value>
-                    <ControlTemplate TargetType="{x:Type Button}">
-                        <Border Background="{TemplateBinding Background}">
-                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"  Margin="{TemplateBinding Padding}"/>
+                    <ControlTemplate TargetType="{x:Type myApp:HoverButton}">
+                        <Border Background="{TemplateBinding Background}"  BorderThickness="{TemplateBinding BorderThickness}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"  CornerRadius="{TemplateBinding CornerRadius}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="{TemplateBinding Padding}"/>
                         </Border>
                     </ControlTemplate>
                 </Setter.Value>
@@ -22,6 +26,6 @@
                 </Trigger>
             </Style.Triggers>
         </Style>
-
+    
     </Application.Resources>
 </Application>
